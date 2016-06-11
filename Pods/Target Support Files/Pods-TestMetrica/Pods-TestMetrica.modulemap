@@ -1,0 +1,6 @@
+framework module Pods_TestMetrica {
+  umbrella header "Pods-TestMetrica-umbrella.h"
+
+  export *
+  module * { export * }
+}
